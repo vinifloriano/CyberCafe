@@ -9,14 +9,13 @@ Criação de um sistema para administração e gerenciamento de uma LanHouse.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- C#
+- WinForms
+- MySQL
 
 ## 💻 Projeto
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+O CyberCafé é uma aplicação que auxilia no gerenciamento de uma lan house com foco no futuro.
 
 ## :memo: Licença
 
