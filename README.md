@@ -2,7 +2,7 @@
 Criação de um sistema para administração e gerenciamento de uma LanHouse.
 
 <p align="center">
-  <img alt="Cyber Café" src="https://media.giphy.com/media/kdjVG4GxNCiaHqjtmA/source.gif" width="100%">
+  <img alt="Cyber Café" src="https://media.giphy.com/media/kdjVG4GxNCiaHqjtmA/source.gif" width="80%">
 </p>
 
 ## 🚀 Tecnologias
